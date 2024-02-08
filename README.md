@@ -25,7 +25,7 @@ Tensorflow "pip install tensorflow"
 ## Usage
 Download The project using the Drive Link -
 https://drive.google.com/drive/folders/1DIUVDNLFluWQM0ceWOi_Fkj-hzE77X2o?usp=sharing 
-Download the Project Open in VSCode and Run the main.py File
+Download the Project Open in VSCode or PyCharm and Run the main.py File
 
 ## Screenshot / Result
 <img width="629" alt="image" src="https://github.com/Agniv-Paul/Traffic-Sign-Recognition/assets/136624547/5c9bd985-0664-4206-9bed-96dab564e348">
