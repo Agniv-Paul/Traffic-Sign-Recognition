@@ -17,7 +17,9 @@ The model architecture is based on a deep neural network tenserflow and keras an
 
 ## Installation
 Need to install the basic requirements like 
+
 CV2 " pip install opencv-python "
+
 Tensorflow "pip install tensorflow"
 
 ## Usage
